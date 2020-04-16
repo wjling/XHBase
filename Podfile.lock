@@ -1,0 +1,16 @@
+PODS:
+  - XHBase (0.0.1)
+
+DEPENDENCIES:
+  - XHBase (from `./`)
+
+EXTERNAL SOURCES:
+  XHBase:
+    :path: "./"
+
+SPEC CHECKSUMS:
+  XHBase: 07292d617fdb996a45a37bce62425dbbbfb872d7
+
+PODFILE CHECKSUM: bd9e65865b9f45266b3b1476410cebd33d83f5bf
+
+COCOAPODS: 1.8.4

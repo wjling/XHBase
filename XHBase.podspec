@@ -111,7 +111,7 @@ Pod::Spec.new do |spec|
   # spec.preserve_paths = "FilesToSave", "MoreFilesToSave"
   
   spec.resource_bundles = {
-    'XHBase' => ['XHBase/Resources/*.xcassets'],
+    'XHBase' => ['XHBase/Resources/*.xcassets']
   }
 
 
